@@ -1,7 +1,7 @@
 module.exports = {
+  base: '/docs/',
   themeConfig: {
     // logo: '/assets/img/logo.png',
-    base: '/docs/',
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
