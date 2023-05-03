@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/docs/',
+  base: './docs/',
   themeConfig: {
     // logo: '/assets/img/logo.png',
     lastUpdated: 'Last Updated',
